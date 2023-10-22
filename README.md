@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Gustavo de Almeida Bazan</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.discordapp.net/attachments/809426467493642240/1165800495701565440/Yellow__Black_Simple_Profile_LinkedIn_Banner.png?ex=65482b51&is=6535b651&hm=31f8d44bc7f81931b0efde2d6a3c784ac1f481892e457825af2916cd5d7cceca&=&width=1020&height=306)](https://rishavchanda.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
