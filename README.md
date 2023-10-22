@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, Meu nome é Gustavo de Almeida Bazan</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
