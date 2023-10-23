@@ -3,7 +3,7 @@
 🔭 No momento estou desenvolvendo o app da <a href="https://reskyvr.com.br">ReskyVR</a> <br><br>
 🌱 Atualmente estou aprendendo sobre <b>Machine Learning</b> e <b>Realidade Virtual</b> <br><br>
 💬 Pergunte-me sobre <b>Realidade Virtual</b> <br><br>
-👨‍💻 Sobre mim: <a href="www.linkedin.com/in/gustavo-de-almeida-bazan">Gustavo de Almeida Bazan</a>
+👨‍💻 Sobre mim: <a href="https://www.linkedin.com/in/gustavo-de-almeida-bazan">Gustavo de Almeida Bazan</a>
 
 <h2 align="left">Linguagens de Programação:</h2>
 
