@@ -1,7 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/809426467493642240/1165800495701565440/Yellow__Black_Simple_Profile_LinkedIn_Banner.png?ex=65482b51&is=6535b651&hm=31f8d44bc7f81931b0efde2d6a3c784ac1f481892e457825af2916cd5d7cceca&=&width=1020&height=306)](gustavobazan.github.io/)
 # 💫 Sobre Mim:
 🔭 No momento estou desenvolvendo o app da <a href="https://reskyvr.com.br">ReskyVR</a> <br><br>
-🌱 Atualmente estou me aperfeiçoando em TypeScript
+🌱 Atualmente estou me aperfeiçoando em <b>C#</b>
 
 <h2 align="left">Linguagens de Programação:</h2>
 
