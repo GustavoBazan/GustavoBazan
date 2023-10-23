@@ -1,9 +1,11 @@
 [![MasterHead](https://media.discordapp.net/attachments/809426467493642240/1165800495701565440/Yellow__Black_Simple_Profile_LinkedIn_Banner.png?ex=65482b51&is=6535b651&hm=31f8d44bc7f81931b0efde2d6a3c784ac1f481892e457825af2916cd5d7cceca&=&width=1020&height=306)](gustavobazan.github.io/)
 # 💫 Sobre Mim:
 🔭 No momento estou desenvolvendo o app da ReskyVR<br><br>🌱 Atualmente estou me aperfeiçoando em TypeScript
+
 <h2 align="left">Linguagens de Programação:</h2>
 
-(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript]
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBazan&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
