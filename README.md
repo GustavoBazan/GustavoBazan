@@ -44,6 +44,6 @@
 
 ---
 
-[![Views](https://visitcount.itsvg.in/api?id=GustavoBazan&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GustavoBazan&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gustavo-de-almeida-bazan)
