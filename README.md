@@ -1,7 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/809426467493642240/1165800495701565440/Yellow__Black_Simple_Profile_LinkedIn_Banner.png?ex=65482b51&is=6535b651&hm=31f8d44bc7f81931b0efde2d6a3c784ac1f481892e457825af2916cd5d7cceca&=&width=1020&height=306)](gustavobazan.github.io/)
 # 💫 Sobre Mim:
 🔭 No momento estou desenvolvendo o app da <a href="https://reskyvr.com.br">ReskyVR</a> <br><br>
-🌱 Atualmente estou aprendendo sobre <b>Machine Learning</b> e <b>Realidade Virtual</b> <br><br>
+🌱 Atualmente estou aprendendo sobre <b>React</b> e <b>Ionic</b> <br><br>
 💬 Pergunte-me sobre <b>Realidade Virtual</b> <br><br>
 👨‍💻 Sobre mim: <a href="https://www.linkedin.com/in/gustavo-de-almeida-bazan">Gustavo de Almeida Bazan</a>
 
@@ -46,4 +46,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=GustavoBazan&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/gustavo-de-almeida-bazan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-de-almeida-bazan)
