@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHuDEy97za72g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1697932807923?e=1738195200&v=beta&t=6olKIH0ZY0PY-yLKXxJ1MexUS-8AQ7W8twQ8S1XVLZs)](gustavobazan.github.io/)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQG6CNppJTUahA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732999918120?e=1738195200&v=beta&t=ji2rxAD9lx_BWITfTMYW3iJFUefGhGbwyARpl2cqLUk)](gustavobazan.github.io/)
 # 💫 Sobre Mim:
 🔭 No momento estou desenvolvendo o app da <a href="https://gustavobazan.github.io/#/reskyvr">ReskyVR</a> <br><br>
 🌱 Atualmente estou aprendendo sobre <b>SQL</b> e <b>PostgreSQL</b> <br><br>
