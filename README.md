@@ -1,8 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHuDEy97za72g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1697932807923?e=1738195200&v=beta&t=6olKIH0ZY0PY-yLKXxJ1MexUS-8AQ7W8twQ8S1XVLZs)](gustavobazan.github.io/)
 # 💫 Sobre Mim:
-🔭 No momento estou desenvolvendo o app da <a href="https://reskyvr.com.br">ReskyVR</a> <br><br>
-🌱 Atualmente estou aprendendo sobre <b>React</b> e <b>Ionic</b> <br><br>
-💬 Pergunte-me sobre <b>Realidade Virtual</b> <br><br>
+🔭 No momento estou desenvolvendo o app da <a href="https://gustavobazan.github.io/#/reskyvr">ReskyVR</a> <br><br>
+🌱 Atualmente estou aprendendo sobre <b>SQL</b> e <b>PostgreSQL</b> <br><br>
+💬 Pergunte-me sobre <b>Segurança da Informação</b> <br><br>
 👨‍💻 Sobre mim: <a href="https://www.linkedin.com/in/gustavo-de-almeida-bazan">Gustavo de Almeida Bazan</a>
 
 <h2 align="left">Linguagens de Programação:</h2>
